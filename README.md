@@ -28,9 +28,10 @@
     </p>
 </a>
 
-<p align="center">
+
 ### 📊 GitHub Stats:
 ---
+ <p align="center">
 ![KSCH github stats](https://github-readme-stats.vercel.app/api?username=kschdsc&theme=radical&show_icons=true&count_private=true)
 
 ![KSCH Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kschdsc&theme=solarized_dark)
