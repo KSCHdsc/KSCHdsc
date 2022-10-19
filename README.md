@@ -39,10 +39,4 @@
 ![KSCH Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kschdsc&theme=solarized_dark)
 
 
-**Github**
-
-|                                                                                                                     |                                                               |                                                                |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------: | -------------------------------------------------------------: |
-  
-| [Github](https://poll.fizzy.wtf/vote?kschdsc.github_gitlab=yes&redirect=https://github.com/kschdsckschdsc/poll%23poll) | ![](https://poll.fizzy.wtf/show?kschdsc.github_gitlab=yes) | ![](https://poll.fizzy.wtf/count?kschdsc.github_gitlab=yes) |
 
