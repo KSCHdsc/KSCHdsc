@@ -31,9 +31,9 @@
 
 ### 📊 GitHub Stats:
 ---
- <p align="center">
-![KSCH github stats](https://github-readme-stats.vercel.app/api?username=kschdsc&theme=radical&show_icons=true&count_private=true)
 
+[KSCH github stats](https://github-readme-stats.vercel.app/api?username=kschdsc&theme=radical&show_icons=true&count_private=true)
+<p align="center">
 ![KSCH Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kschdsc&theme=solarized_dark)
 ![KSCH Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kschdsc&theme=solarized_dark)
 ![KSCH Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kschdsc&theme=solarized_dark)
