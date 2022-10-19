@@ -11,15 +11,13 @@
 </p>
 
   
-  ### KSCH code avec le ❤️
+### KSCH code avec le ❤️
 <a href="https://github.com/kschdsc">
-  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kschdsc" alt="page views" />
-    </p>
   </a>
   <a href="https://github.com/kschdsc">
   <img src="https://img.shields.io/github/followers/kschdsckschdsc.svg?style=social&label=Follow&maxAge=2592000">
-    </a>
+  </a>
 
 
 ### 🏆 GitHub Profile Trophy:
