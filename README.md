@@ -12,19 +12,19 @@
 
   
 ### KSCH code avec le ❤️
-<a href="https://github.com/kschdsc">
-    <img src="https://komarev.com/ghpvc/?username=kschdsc" alt="page views" />
+<a href="https://github.com/KSCHdsc">
+    <img src="https://komarev.com/ghpvc/?username=KSCHdsc" alt="page views" />
   </a>
-  <a href="https://github.com/kschdsc">
-  <img src="https://img.shields.io/github/followers/kschdsckschdsc.svg?style=social&label=Follow&maxAge=2592000">
+  <a href="https://github.com/KSCHdsc">
+  <img src="https://img.shields.io/github/followers/KSCHdsc.svg?style=social&label=Follow&maxAge=2592000">
   </a>
 
 
 ### 🏆 GitHub Profile Trophy:
 ---
-<a href="https://github.com/kschdsc/github-profile-trophy">
+<a href="https://github.com/KSCHdsc/github-profile-trophy">
   <p align="center">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kschdsc&column=8&theme=radical&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=KSCHdsc&column=8&theme=radical&no-frame=true&no-bg=true"/>
     </p>
 </a>
 
@@ -32,11 +32,11 @@
 
 ### 📊 GitHub Stats:
 ---
-| <a href="KSCH Github Stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kschdsc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
+| <a href="KSCH Github Stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KSCHdsc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
   
-![KSCH Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kschdsc&theme=solarized_dark)
-![KSCH Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kschdsc&theme=solarized_dark)
-![KSCH Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kschdsc&theme=solarized_dark)
+![KSCH Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KSCHdsc&theme=solarized_dark)
+![KSCH Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KSCHdsc&theme=solarized_dark)
+![KSCH Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KSCHdsc&theme=solarized_dark)
 
 
 
