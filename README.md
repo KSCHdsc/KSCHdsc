@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://discord.gg/ujvDEZYApB">
-<img src="https://lanyard.cnrad.dev/api/1021383297554731060?hideTimestamp=false&hideBadges=false&idleMessage=Work%20on%20Discord%20CapingTeam"
+<img src="https://lanyard.cnrad.dev/api/1037809412766703636?hideTimestamp=false&hideBadges=false&idleMessage=Work%20on%20Discord%20CapingTeam"
 </a>
 </p>
 
