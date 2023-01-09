@@ -11,7 +11,7 @@
 </p>
 
   
-### KSCH Manelia https://discord.gg/gk9cPWqs8z ❤️
+### KSCH Code With ❤️
 <a href="https://github.com/KSCHdsc">
     <img src="https://komarev.com/ghpvc/?username=KSCHdsc" alt="page views" />
   </a>
