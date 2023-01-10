@@ -38,7 +38,5 @@
 ![KSCH Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KSCHdsc&theme=solarized_dark)
 ![KSCH Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KSCHdsc&theme=solarized_dark)
 
- <a href="https://discords.com/bots/bots/862657304166924329" >
-            <img src="https://discords.com/bots/api/bot/862657304166924329/widget" title="Visit Musify listed on Discords.com!" alt="Musify's Widget Failed to Load" /></a>
-        
+
 
